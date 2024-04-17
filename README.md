@@ -1,6 +1,6 @@
 # money_manager_app
 
-A new Flutter project.
+A new Flutter project for money Managing.
 
 ## Getting Started
 
